@@ -1,0 +1,3 @@
+func addit(x){ x::=x+29; Return x}
+y::=func addit(5)
+print y
